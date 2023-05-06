@@ -8,6 +8,8 @@ public class Class01 {
         //version 2 çalışmaları
         int z =4;
         System.out.println(x+y+z);
+        //v3
+        System.out.println("V3 kodları...");
 
 
     }
