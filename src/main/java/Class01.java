@@ -14,6 +14,8 @@ public class Class01 {
         System.out.println("V4 çalışmaları");
         //V5 kodlarım...
         //v6 için yeni çalışmalar..
+        //v7 çalışmalar
+        
 
 
 
